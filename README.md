@@ -1,8 +1,4 @@
-# QCfDD: 2023 Quantum Computing for Drug Discovery Challenge at ICCAD
-
-
-
-**Hengrui Chen, Tianze Zhu, Yizheng Fang, Yifan Guo (Zhejiang University)**
+# Noise-Aware Quantum Competition for Molecule Simulation
 
 
 **Attention: due to the large file limit of Github, we didn't upload three files (e.g., `mitigator_cairo.pickle`). These three pickle files can be easily generated in python, and they store the class `CorrelatedReadoutMitigator` in Qiskit. You can contact us if you had doubts about our work.**
